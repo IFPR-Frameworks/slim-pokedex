@@ -39,3 +39,16 @@ composer require slim/php-view
     $app->run();
 
 ```
+
+### Usando o projeto existente
+
+Se você desejar, pode baixar e usar o projeto existente. Para isso basta realizar o download do projeto, e dentro da pasta executar o comando:
+
+```
+composer install
+```
+
+
+***Observação:** as vezes, após essa operação, é necessário fechar e abrir novamente o VSCode para que o VSCode “passe a conhecer” os novos arquivos baixados;*
+
+**Pronto, o projeto está baixado e configurado!**
